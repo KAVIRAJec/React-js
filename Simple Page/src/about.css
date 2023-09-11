@@ -1,0 +1,45 @@
+/* App.css */
+
+/* Styling for the about-container */
+.about-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  /* Styling for the unordered list */
+  .about-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Styling for the add-business section */
+  .add-business {
+    margin-top: 20px;
+  }
+  .add-business input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .add-business button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-business button:hover {
+    background-color: #0056b3;
+  }
+  
